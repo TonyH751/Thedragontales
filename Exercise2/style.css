@@ -1,0 +1,39 @@
+body {	
+	background: linear-gradient(-45deg, #98F898, #90EE90);	
+	margin: 5%;
+	padding: 0;
+}
+
+h1 {
+	color: DimGray;
+}
+
+p {
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: "Corbel Light";
+  font-size: 18px;
+  font-weight: 100;
+}
+
+ul {
+  opacity: 0.5;
+}
+
+h3 {
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+}
+
+img {
+  max-width: 100%;
+}
+
+#name {
+  letter-spacing: 2px;
+  font-style: bold !important;
+  color: red;
+  text-transform: uppercase;
+}
+
