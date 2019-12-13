@@ -37,3 +37,55 @@ img {
   text-transform: uppercase;
 }
 
+#major {
+	text-align: center;
+}
+
+.title {
+  margin-left: 40px;
+}
+
+.titleone {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  line-height: 14px;
+  margin-left: 40px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+}
+
+.titletwo {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  line-height: 14px;
+  margin-left: 40px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+}
+
+.titlethree {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  line-height: 14px;
+  margin-left: 40px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+}
