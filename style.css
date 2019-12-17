@@ -20,7 +20,7 @@ body {
 }
 
 .main {
-	margin-left: 2%;
+	margin-left: 5%;
 	line-height: 0px;
     background-color: rgba(255,255,255,0.8);
     height: 50px;
@@ -34,7 +34,7 @@ body {
 }
 
 .l1 {
-	margin-left: 2%;
+	margin-left: 5%;
 	padding-left: 40px;
 	margin-top: 28px;
 	display: block;
